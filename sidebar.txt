@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cja:home|Door43 (cja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cja|d43-cja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cja/archive/master.zip|d43-cja.zip]]
+
+**Recent Changes**
+{{changes>ns = cja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cja|Ethnologue data]]
+
